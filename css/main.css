@@ -1,0 +1,80 @@
+.contact{
+  margin-top: 70em;
+  color: white;
+}
+
+.nav img {
+  position: relative;
+  height: 2em;
+}
+
+.navbar-brand.color {
+  color: white;
+}
+
+video#back {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  background-size: contain;
+  z-index: -1;
+}
+
+.hello {
+  color: white;
+	text-shadow: 1.5px 1.5px black;
+	height: 9em;
+	margin-top: 15em;
+}
+
+.logo img{
+  width: 25em;
+  height: 20em;
+}
+
+.logo p{
+  color: white;
+}
+
+.logo h1{
+  color: white;
+}
+.logo{
+  margin-top: 25em;
+}
+
+.chirp img{
+  width: 25em;
+  height: 20em;
+}
+
+.chirp p{
+  color: white;
+}
+
+.chirp h1{
+  color: white;
+}
+.chirp{
+  margin-top: 25em;
+}
+
+.challenge img{
+  width: 25em;
+  height: 20em;
+}
+
+.challenge p{
+  color: white;
+}
+
+.challenge h1{
+  color: white;
+}
+.challenge {
+  margin-top: 25em;
+}
